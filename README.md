@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arun7389/life/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Arun7389/life/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
