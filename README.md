@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arun7389/life/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Arun7389/life/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
+| [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Arun7389/life/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arun7389/life/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arun7389/life/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arun7389/life/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
