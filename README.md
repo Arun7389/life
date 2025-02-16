@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arun7389/life/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arun7389/life/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arun7389/life/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -74,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
