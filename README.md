@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Arun7389/life/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Arun7389/life/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun7389/life/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
