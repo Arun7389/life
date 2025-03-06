@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
 | [2491-smallest-even-multiple](https://github.com/Arun7389/life/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Arun7389/life/tree/master/2556-convert-the-temperature) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arun7389/life/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Arun7389/life/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Arun7389/life/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arun7389/life/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun7389/life/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
