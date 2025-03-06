@@ -14,8 +14,8 @@ public:
         ListNode *head=new ListNode(0);
         ListNode *l=head;
         int carry=0,sum=0;
-        ListNode *p1,*p2;
-        for(p1=l1,p2=l2;p1!=NULL||p2!=NULL||carry!=0;)
+        ListNode *p1=l1,*p2=l2;
+        while(p1!=NULL||p2!=NULL||carry!=0)
         {
           sum=carry;
           if(p1)
