@@ -28,9 +28,10 @@ public:
         if(an.size()<2)return ans;
         for(int i=0;i<an.size()-1;i++)
         {
-            if(m>an[i+1]-an[i])
+            int diff=an[i+1]-an[i];
+            if(m>diff)
             {
-                m=min(m,an[i+1]-an[i]);
+                m=diff;
                 ans[0]=an[i];
                 ans[1]=an[i+1];
 
