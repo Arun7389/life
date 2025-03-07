@@ -32,9 +32,7 @@ public:
             if(m>diff)
             {
                 m=diff;
-                ans[0]=an[i];
-                ans[1]=an[i+1];
-
+                ans={an[i],an[i+1]};
 
             }
             
