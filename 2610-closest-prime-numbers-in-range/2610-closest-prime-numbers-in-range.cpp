@@ -1,41 +1,44 @@
 class Solution {
 public:
     vector<int> closestPrimes(int left, int right) {
-        vector<bool> isPrime(right + 1, true);
-    isPrime[0] = isPrime[1] = false;  // 0 and 1 are not prime
+        int m=INT_MAX;
+        int fact=0;
+        vector<int> ans({-1,-1});
+        vector<bool> a(right+1,false);
+        
 
-    // Sieve of Eratosthenes
-    for (long i = 2; i * i <= right; i++) {
-        if (isPrime[i]) {
-            for (long j = i * i; j <= right; j += i) {
-                isPrime[j] = false;
+        a[0]=a[1]=1;
+        for(long i=2;i*i<=right;i++)
+        {
+            if(a[i]==0)
+            {
+            for(long  j=i*i;j<=right;j+=i)
+            {
+                
+                a[j]=true;
+            }
             }
         }
-    }
+        vector<int> an;
+        for(int i=left;i<=right;i++)
+        {
+            if(a[i]==0)an.push_back(i);
 
-    vector<int> primes;
-    for (int i = left; i <= right; i++) {
-        if (isPrime[i]) {
-            primes.push_back(i);
         }
-    }
+        if(an.size()<2)return ans;
+        for(int i=0;i<an.size()-1;i++)
+        {
+            int diff=an[i+1]-an[i];
+            if(m>diff)
+            {
+                m=diff;
+                ans={an[i],an[i+1]};
 
-    // ✅ Return immediately if less than 2 primes found
-    if (primes.size() < 2) return {-1, -1}; 
-
-    int minDiff = INT_MAX;
-    vector<int> ans(2, -1);
-
-    // Find the closest prime pair
-    for (int i = 1; i < primes.size(); i++) {
-        int diff = primes[i] - primes[i - 1];
-        if (diff < minDiff) {
-            minDiff = diff;
-            ans = {primes[i - 1], primes[i]};
+            }
+            
         }
-    }
 
-    return ans;
+        return ans;
         
     }
 };
