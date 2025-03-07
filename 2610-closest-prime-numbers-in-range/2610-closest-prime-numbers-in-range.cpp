@@ -20,7 +20,7 @@ public:
             }
         }
         vector<int> an;
-        for(int i=left;i<a.size();i++)
+        for(int i=left;i<=right;i++)
         {
             if(a[i]==0)an.push_back(i);
 
