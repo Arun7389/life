@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun7389/life/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arun7389/life/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arun7389/life/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arun7389/life/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Arun7389/life/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
