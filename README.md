@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Arun7389/life/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun7389/life/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Arun7389/life/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Arun7389/life/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arun7389/life/tree/master/2610-closest-prime-numbers-in-range) |
