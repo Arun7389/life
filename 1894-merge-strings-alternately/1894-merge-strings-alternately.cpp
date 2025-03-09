@@ -10,23 +10,20 @@ public:
             i++;
             j++;
         }while(i !=n && j!=n);
-        if(j!=word2.size())
-        {
+        
             while(j!=word2.size())
             {
                 st+=word2[j];
                 j++;
             }
-        }
-        if(i!=word1.size())
-        {
+       
              while(i!=word1.size())
             {
                 st+=word1[i];
                 i++;
             }
 
-        }
+        
         return st;
 
     }
