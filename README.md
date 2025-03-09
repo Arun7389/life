@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arun7389/life/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arun7389/life/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Arun7389/life/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun7389/life/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arun7389/life/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arun7389/life/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Arun7389/life/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Arun7389/life/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 ## Binary Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Arun7389/life/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arun7389/life/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Arun7389/life/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Arun7389/life/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
