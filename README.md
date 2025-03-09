@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Arun7389/life/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arun7389/life/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-alternating-groups-ii](https://github.com/Arun7389/life/tree/master/3483-alternating-groups-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun7389/life/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-alternating-groups-ii](https://github.com/Arun7389/life/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
