@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arun7389/life/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun7389/life/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Arun7389/life/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arun7389/life/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arun7389/life/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arun7389/life/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Arun7389/life/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Arun7389/life/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Arun7389/life/tree/master/1908-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Arun7389/life/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
