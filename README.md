@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arun7389/life/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Arun7389/life/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Math
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arun7389/life/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun7389/life/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Arun7389/life/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Arun7389/life/tree/master/2556-convert-the-temperature) |
