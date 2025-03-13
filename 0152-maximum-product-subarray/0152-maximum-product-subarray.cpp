@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
+        if(nums.empty())return 0;
         int maxproduct=nums[0],minproduct=nums[0],result=nums[0];
        
         for(int i=1;i<nums.size();i++)
