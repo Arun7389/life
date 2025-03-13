@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Arun7389/life/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arun7389/life/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arun7389/life/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arun7389/life/tree/master/0342-power-of-four) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Arun7389/life/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arun7389/life/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun7389/life/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Arun7389/life/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Arun7389/life/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arun7389/life/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arun7389/life/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Arun7389/life/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
