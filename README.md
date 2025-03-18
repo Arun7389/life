@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Arun7389/life/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arun7389/life/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/Arun7389/life/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arun7389/life/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2470-removing-stars-from-a-string](https://github.com/Arun7389/life/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/Arun7389/life/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
