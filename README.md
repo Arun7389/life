@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arun7389/life/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arun7389/life/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Arun7389/life/tree/master/1894-merge-strings-alternately) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Arun7389/life/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Arun7389/life/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun7389/life/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Arun7389/life/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Arun7389/life/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
@@ -228,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Arun7389/life/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
