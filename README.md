@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arun7389/life/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Arun7389/life/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Arun7389/life/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arun7389/life/tree/master/0342-power-of-four) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arun7389/life/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun7389/life/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Arun7389/life/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arun7389/life/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Arun7389/life/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Arun7389/life/tree/master/0713-subarray-product-less-than-k) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Arun7389/life/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/Arun7389/life/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Arun7389/life/tree/master/2610-closest-prime-numbers-in-range) |
 ## Database
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arun7389/life/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arun7389/life/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
