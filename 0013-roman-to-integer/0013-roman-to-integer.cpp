@@ -1,9 +1,6 @@
 
 class Solution {
 public:
-    
-class Solution {
-public:
     int romanToInt(string s) {
         
         int n=0;
@@ -49,7 +46,5 @@ public:
         }
         return n;
     }
-    
-};
     
 };
