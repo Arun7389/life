@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arun7389/life/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arun7389/life/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/Arun7389/life/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Arun7389/life/tree/master/2470-removing-stars-from-a-string) |
@@ -313,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arun7389/life/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arun7389/life/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arun7389/life/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
