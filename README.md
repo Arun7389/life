@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Arun7389/life/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Arun7389/life/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Arun7389/life/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arun7389/life/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Arun7389/life/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/Arun7389/life/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arun7389/life/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arun7389/life/tree/master/0078-subsets) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Arun7389/life/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Arun7389/life/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
