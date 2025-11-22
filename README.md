@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Arun7389/life/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arun7389/life/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Arun7389/life/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Arun7389/life/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Arun7389/life/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Arun7389/life/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arun7389/life/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Arun7389/life/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
