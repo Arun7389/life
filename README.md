@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arun7389/life/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Arun7389/life/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Arun7389/life/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Arun7389/life/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arun7389/life/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arun7389/life/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Arun7389/life/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Arun7389/life/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Arun7389/life/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arun7389/life/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arun7389/life/tree/master/0078-subsets) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Arun7389/life/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Arun7389/life/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arun7389/life/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arun7389/life/tree/master/0215-kth-largest-element-in-an-array) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun7389/life/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arun7389/life/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Arun7389/life/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Arun7389/life/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
