@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Arun7389/life/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arun7389/life/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arun7389/life/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arun7389/life/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arun7389/life/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arun7389/life/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arun7389/life/tree/master/0215-kth-largest-element-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arun7389/life/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
@@ -204,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Arun7389/life/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Arun7389/life/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Arun7389/life/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Arun7389/life/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arun7389/life/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Prefix Sum
