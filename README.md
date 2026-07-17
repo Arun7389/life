@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Arun7389/life/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
+| [1323-maximum-69-number](https://github.com/Arun7389/life/tree/master/1323-maximum-69-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arun7389/life/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun7389/life/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Arun7389/life/tree/master/2491-smallest-even-multiple) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/Arun7389/life/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/Arun7389/life/tree/master/1328-break-a-palindrome) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Arun7389/life/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arun7389/life/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
