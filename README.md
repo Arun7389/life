@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arun7389/life/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
+| [1328-break-a-palindrome](https://github.com/Arun7389/life/tree/master/1328-break-a-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Arun7389/life/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arun7389/life/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arun7389/life/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
+| [1328-break-a-palindrome](https://github.com/Arun7389/life/tree/master/1328-break-a-palindrome) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Arun7389/life/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arun7389/life/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Prefix Sum
