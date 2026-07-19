@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Arun7389/life/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arun7389/life/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Arun7389/life/tree/master/0238-product-of-array-except-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Arun7389/life/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arun7389/life/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arun7389/life/tree/master/0792-binary-search) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Arun7389/life/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Arun7389/life/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Arun7389/life/tree/master/0152-maximum-product-subarray) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arun7389/life/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Arun7389/life/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Arun7389/life/tree/master/1791-richest-customer-wealth) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arun7389/life/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -368,13 +372,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
