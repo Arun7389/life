@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Arun7389/life/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Arun7389/life/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Arun7389/life/tree/master/1260-shift-2d-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Arun7389/life/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/Arun7389/life/tree/master/2470-removing-stars-from-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arun7389/life/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/Arun7389/life/tree/master/1260-shift-2d-grid) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arun7389/life/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1603-running-sum-of-1d-array](https://github.com/Arun7389/life/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Arun7389/life/tree/master/1791-richest-customer-wealth) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Arun7389/life/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Arun7389/life/tree/master/1260-shift-2d-grid) |
 | [1791-richest-customer-wealth](https://github.com/Arun7389/life/tree/master/1791-richest-customer-wealth) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
