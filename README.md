@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Arun7389/life/tree/master/1260-shift-2d-grid) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arun7389/life/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun7389/life/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Arun7389/life/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Arun7389/life/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arun7389/life/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun7389/life/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun7389/life/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arun7389/life/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Arun7389/life/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arun7389/life/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun7389/life/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Merge Sort
 |  |
