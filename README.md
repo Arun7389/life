@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun7389/life/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Arun7389/life/tree/master/1323-maximum-69-number) |
+| [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arun7389/life/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arun7389/life/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2491-smallest-even-multiple](https://github.com/Arun7389/life/tree/master/2491-smallest-even-multiple) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/Arun7389/life/tree/master/1260-shift-2d-grid) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arun7389/life/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun7389/life/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Arun7389/life/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Arun7389/life/tree/master/1791-richest-customer-wealth) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -415,14 +418,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
