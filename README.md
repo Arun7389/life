@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Arun7389/life/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arun7389/life/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun7389/life/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Arun7389/life/tree/master/1323-maximum-69-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arun7389/life/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Arun7389/life/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arun7389/life/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Arun7389/life/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Arun7389/life/tree/master/0238-product-of-array-except-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun7389/life/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Arun7389/life/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Arun7389/life/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Arun7389/life/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Arun7389/life/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -409,13 +413,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arun7389/life/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arun7389/life/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
