@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Arun7389/life/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Arun7389/life/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Arun7389/life/tree/master/3483-alternating-groups-ii) |
+| [3731-find-missing-elements](https://github.com/Arun7389/life/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun7389/life/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Arun7389/life/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3321-type-of-triangle](https://github.com/Arun7389/life/tree/master/3321-type-of-triangle) |
+| [3731-find-missing-elements](https://github.com/Arun7389/life/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Arun7389/life/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/Arun7389/life/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
