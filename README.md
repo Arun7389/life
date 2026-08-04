@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Arun7389/life/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arun7389/life/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arun7389/life/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arun7389/life/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun7389/life/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Arun7389/life/tree/master/0367-valid-perfect-square) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Arun7389/life/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arun7389/life/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arun7389/life/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arun7389/life/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Arun7389/life/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arun7389/life/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arun7389/life/tree/master/0150-evaluate-reverse-polish-notation) |
