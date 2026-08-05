@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arun7389/life/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3310-remove-methods-from-project](https://github.com/Arun7389/life/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
@@ -406,11 +407,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3310-remove-methods-from-project](https://github.com/Arun7389/life/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Arun7389/life/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Arun7389/life/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3310-remove-methods-from-project](https://github.com/Arun7389/life/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
