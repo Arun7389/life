@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Arun7389/life/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Arun7389/life/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Arun7389/life/tree/master/0948-sort-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Arun7389/life/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Arun7389/life/tree/master/1260-shift-2d-grid) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arun7389/life/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1406-stone-game-iii](https://github.com/Arun7389/life/tree/master/1406-stone-game-iii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Arun7389/life/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Arun7389/life/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
+| [1207-unique-number-of-occurrences](https://github.com/Arun7389/life/tree/master/1207-unique-number-of-occurrences) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Arun7389/life/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Arun7389/life/tree/master/3731-find-missing-elements) |
