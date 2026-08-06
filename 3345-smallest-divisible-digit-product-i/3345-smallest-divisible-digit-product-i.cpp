@@ -16,6 +16,6 @@ public:
                 return j;
             }
         }
-        return 123456;
+        return 1;
     }
 };
