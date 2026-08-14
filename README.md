@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Arun7389/life/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arun7389/life/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Arun7389/life/tree/master/2470-removing-stars-from-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arun7389/life/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Arun7389/life/tree/master/0141-linked-list-cycle) |
 | [1207-unique-number-of-occurrences](https://github.com/Arun7389/life/tree/master/1207-unique-number-of-occurrences) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Arun7389/life/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arun7389/life/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/Arun7389/life/tree/master/3227-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Arun7389/life/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun7389/life/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Arun7389/life/tree/master/0713-subarray-product-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Arun7389/life/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Arun7389/life/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-alternating-groups-ii](https://github.com/Arun7389/life/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
